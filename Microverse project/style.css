@@ -1,0 +1,15 @@
+body{
+  background-color: rgb(153, 224, 218,);
+}
+#navbar{
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 50px;
+  width: 400px;
+}
+@media screen and (min-width:75px){
+  body{
+    background-color: teal;
+  }
+}
